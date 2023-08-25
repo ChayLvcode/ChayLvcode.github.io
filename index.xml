@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi! This is Chay, I&#39;m a potential engineer with a passion for engineering.🌄</title>
+    <link>https://ChayLvcode.github.io/</link>
+    <description>Recent content on Hi! This is Chay, I&#39;m a potential engineer with a passion for engineering.🌄</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2020, Jane Doe.</copyright><atom:link href="https://ChayLvcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Me</title>
+      <link>https://ChayLvcode.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ChayLvcode.github.io/contact/</guid>
+      <description>Contact Website🥨
+https://chaylvcode.github.io/ Email🏈
+cz2686@nyu.edu chengyuz965@gmail.com zheng.1573@osu.edu 15242001593@163.com Github
+https://github.com/ChayLvcode/ Linkedin
+https://www.linkedin.com/in/chengyu-zheng-3000a0161/ You may connect with me via Email，Linkedin or GitHub.</description>
+    </item>
+    
+    <item>
+      <title>My experience</title>
+      <link>https://ChayLvcode.github.io/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ChayLvcode.github.io/experience/</guid>
+      <description>My work experience Check more on Linkedin: 🖋️
+Website: https://www.linkedin.com/in/chengyu-zheng-3000a0161/
+Resarch assistant🍔 Mar. 2023 - Aug. 2023 Applied Dynamics and Optimization Laboratory Applied Dynamics and Optimization Laboratory is a laboratory for New York University, we have members from Abu Dhabi and New York. Collaborate with the supervisor to work on the navigation simulation problem for the quadruped robot. Screening and selecting articles to provide feasible solutions for the robots purchased by the project team.</description>
+    </item>
+    
+    <item>
+      <title>My Projects</title>
+      <link>https://ChayLvcode.github.io/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ChayLvcode.github.io/project/</guid>
+      <description>My projects Honda Window Function Tools Capstone🚗
+Sep. 2021 - May.2022 In group of 5, designed a tool that can control the door and window lifting by its own power supply. This tool is now used by 7 Honda factories to help employeeies detect the firmness and stability of the glass after installation. Used Solidworks to build the model for the prototype and study the circuit diagram of three different type of RDX doors.</description>
+    </item>
+    
+    <item>
+      <title>My story</title>
+      <link>https://ChayLvcode.github.io/more_thing_aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ChayLvcode.github.io/more_thing_aboutme/</guid>
+      <description>A Glimpse into My Life: From Shenyang to the World Greetings! I&amp;rsquo;m Chay, born in the year 1999 in the northeastern city of Shenyang, China. Shenyang, a city with a rich history, holds a special place in my heart. In the 1950s, it stood as China&amp;rsquo;s largest industrial hub, boasting an array of factories and enterprises that once made it the pride of the nation. Names like Shenyang Aircraft Manufacturing Factory, Shenyang Liming Engine Factory, Northeastern Machine Manufacturing General Factory, and Shenyang Aerospace Xinguang Group were synonymous with China&amp;rsquo;s industrial prowess.</description>
+    </item>
+    
+  </channel>
+</rss>

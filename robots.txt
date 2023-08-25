@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://ChayLvcode.github.io/sitemap.xml
